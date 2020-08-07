@@ -14,6 +14,14 @@ perl-libjson  Module for manipulating JSON-formatted data
 IO-Socket-SSL Perl module that implements an interface to SSL sockets.
 flac          Free Lossless Audio Codec
 
+------------
+Debian/Ubuntu dependencies
+------------
+Perl                    The Perl Programming Language
+libio-socket-ssl-perl   Perl module implementing object oriented interface to SSL sockets
+libwww-perl             simple and consistent interface to the world-wide web
+libjson-perl            module for manipulating JSON-formatted data
+
 Cloud Speech API key from Google (https://cloud.google.com/speech).
 Internet access in order to contact Google and get the speech data.
 
